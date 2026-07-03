@@ -3,7 +3,7 @@ Kelompok 2 - Simulasi dan Pemodelan B ITPLN
 
 Link Hosting: https://devin-surface-pro-4.pancake-symmetric.ts.net
 
-Link Presentasi: https://www.canva.com/design/DAHOOwT9_n4/N9E0JlzUuRZmfv_mM8MvnA/edit
+Link Presentasi: https://canva.link/rvbxudjknuddam7
 
 ---
 
