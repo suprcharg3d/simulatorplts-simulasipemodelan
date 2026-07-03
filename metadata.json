@@ -1,0 +1,6 @@
+{
+  "name": "On-Grid Solar Simulator",
+  "description": "An interactive, animated on-grid solar panel simulator that calculates energy production, real-time power flows, and long-term financial projections based on modifiable system parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
